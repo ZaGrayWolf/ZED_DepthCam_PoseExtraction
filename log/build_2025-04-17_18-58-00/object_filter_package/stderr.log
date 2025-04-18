@@ -1,0 +1,5 @@
+  File "/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object_filter_package/test.py", line 47
+    main()__init__.py  last_working_code  msg  object_filter_node.py  onnxrun.py  __pycache__  test.py
+          ^^^^^^^^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,43 @@
+[0.152s] Invoking command in '/home/rm/filter/build/zed_components': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rm/filter/install/object_filter_package:/home/rm/ws_moveit2_2/install/moveit_configs_utils:/home/rm/ws_moveit2_2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/rm/filter/build/zed_components -- -j4 -l4
+[0.404s] [ 50%] Built target zed_camera_component
+[0.420s] [100%] Built target zed_camera_one_component
+[0.937s] Invoked command in '/home/rm/filter/build/zed_components' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rm/filter/install/object_filter_package:/home/rm/ws_moveit2_2/install/moveit_configs_utils:/home/rm/ws_moveit2_2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/rm/filter/build/zed_components -- -j4 -l4
+[0.971s] Invoking command in '/home/rm/filter/build/zed_components': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rm/filter/install/object_filter_package:/home/rm/ws_moveit2_2/install/moveit_configs_utils:/home/rm/ws_moveit2_2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/rm/filter/build/zed_components
+[0.998s] -- Install configuration: "Release"
+[0.999s] -- Up-to-date: /home/rm/filter/install/zed_components/lib/libzed_camera_component.so
+[1.000s] -- Up-to-date: /home/rm/filter/install/zed_components/lib/libzed_camera_one_component.so
+[1.001s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components/
+[1.001s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//zed_camera_component.hpp
+[1.001s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//zed_camera_one_component.hpp
+[1.001s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//cost_traversability.hpp
+[1.001s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//sl_types.hpp
+[1.002s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components/
+[1.002s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//sl_tools.hpp
+[1.002s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//sl_win_avg.hpp
+[1.002s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//sl_logging.hpp
+[1.002s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//gnss_replay.hpp
+[1.003s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//json.hpp
+[1.003s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components/
+[1.003s] -- Up-to-date: /home/rm/filter/install/zed_components/include/zed_components//visibility_control.hpp
+[1.003s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/environment/library_path.sh
+[1.004s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/environment/library_path.dsv
+[1.004s] -- Up-to-date: /home/rm/filter/install/zed_components/share/ament_index/resource_index/package_run_dependencies/zed_components
+[1.004s] -- Up-to-date: /home/rm/filter/install/zed_components/share/ament_index/resource_index/parent_prefix_path/zed_components
+[1.004s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/environment/ament_prefix_path.sh
+[1.004s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/environment/ament_prefix_path.dsv
+[1.004s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/environment/path.sh
+[1.004s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/environment/path.dsv
+[1.005s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/local_setup.bash
+[1.005s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/local_setup.sh
+[1.005s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/local_setup.zsh
+[1.005s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/local_setup.dsv
+[1.005s] -- Installing: /home/rm/filter/install/zed_components/share/zed_components/package.dsv
+[1.005s] -- Up-to-date: /home/rm/filter/install/zed_components/share/ament_index/resource_index/packages/zed_components
+[1.005s] -- Up-to-date: /home/rm/filter/install/zed_components/share/ament_index/resource_index/rclcpp_components/zed_components
+[1.006s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.006s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/cmake/ament_cmake_export_libraries-extras.cmake
+[1.006s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.006s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/cmake/zed_componentsConfig.cmake
+[1.006s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/cmake/zed_componentsConfig-version.cmake
+[1.006s] -- Up-to-date: /home/rm/filter/install/zed_components/share/zed_components/package.xml
+[1.014s] Invoked command in '/home/rm/filter/build/zed_components' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rm/filter/install/object_filter_package:/home/rm/ws_moveit2_2/install/moveit_configs_utils:/home/rm/ws_moveit2_2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/rm/filter/build/zed_components

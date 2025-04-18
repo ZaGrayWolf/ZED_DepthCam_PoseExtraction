@@ -1,0 +1,24 @@
+[2.112s] Invoking command in '/home/rm/filter/src/object_filter_package': PYTHONPATH=/home/rm/filter/build/object_filter_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_filter_package build --build-base /home/rm/filter/build/object_filter_package/build install --record /home/rm/filter/build/object_filter_package/install.log --single-version-externally-managed install_data
+[2.838s] running egg_info
+[2.840s] writing ../../build/object_filter_package/object_filter_package.egg-info/PKG-INFO
+[2.840s] writing dependency_links to ../../build/object_filter_package/object_filter_package.egg-info/dependency_links.txt
+[2.841s] writing entry points to ../../build/object_filter_package/object_filter_package.egg-info/entry_points.txt
+[2.842s] writing requirements to ../../build/object_filter_package/object_filter_package.egg-info/requires.txt
+[2.842s] writing top-level names to ../../build/object_filter_package/object_filter_package.egg-info/top_level.txt
+[2.847s] reading manifest file '../../build/object_filter_package/object_filter_package.egg-info/SOURCES.txt'
+[2.849s] writing manifest file '../../build/object_filter_package/object_filter_package.egg-info/SOURCES.txt'
+[2.850s] running build
+[2.850s] running build_py
+[2.850s] copying object_filter_package/object_filter_node.py -> /home/rm/filter/build/object_filter_package/build/lib/object_filter_package
+[2.852s] running install
+[2.853s] running install_lib
+[2.855s] copying /home/rm/filter/build/object_filter_package/build/lib/object_filter_package/object_filter_node.py -> /home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object_filter_package
+[2.857s] byte-compiling /home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object_filter_package/object_filter_node.py to object_filter_node.cpython-310.pyc
+[2.858s] running install_data
+[2.859s] running install_egg_info
+[2.865s] removing '/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object_filter_package-0.0.0-py3.10.egg-info' (and everything under it)
+[2.865s] Copying ../../build/object_filter_package/object_filter_package.egg-info to /home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object_filter_package-0.0.0-py3.10.egg-info
+[2.868s] running install_scripts
+[2.928s] Installing object_filter_node script to /home/rm/filter/install/object_filter_package/lib/object_filter_package
+[2.930s] writing list of installed files to '/home/rm/filter/build/object_filter_package/install.log'
+[3.039s] Invoked command in '/home/rm/filter/src/object_filter_package' returned '0': PYTHONPATH=/home/rm/filter/build/object_filter_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_filter_package build --build-base /home/rm/filter/build/object_filter_package/build install --record /home/rm/filter/build/object_filter_package/install.log --single-version-externally-managed install_data

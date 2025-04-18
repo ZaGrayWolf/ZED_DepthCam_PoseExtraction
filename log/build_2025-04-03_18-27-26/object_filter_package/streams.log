@@ -1,0 +1,26 @@
+[1.794s] Invoking command in '/home/rm/filter/build/object_filter_package': PYTHONPATH=/home/rm/filter/build/object_filter_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rm/filter/build/object_filter_package/build --no-deps symlink_data
+[2.454s] running develop
+[2.863s] running egg_info
+[2.864s] creating object_filter_package.egg-info
+[2.865s] writing object_filter_package.egg-info/PKG-INFO
+[2.867s] writing dependency_links to object_filter_package.egg-info/dependency_links.txt
+[2.868s] writing entry points to object_filter_package.egg-info/entry_points.txt
+[2.869s] writing requirements to object_filter_package.egg-info/requires.txt
+[2.870s] writing top-level names to object_filter_package.egg-info/top_level.txt
+[2.870s] writing manifest file 'object_filter_package.egg-info/SOURCES.txt'
+[2.875s] reading manifest file 'object_filter_package.egg-info/SOURCES.txt'
+[2.876s] writing manifest file 'object_filter_package.egg-info/SOURCES.txt'
+[3.004s] running build_ext
+[3.004s] Creating /home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object-filter-package.egg-link (link to .)
+[3.007s] Installing object_filter_node script to /home/rm/filter/install/object_filter_package/lib/object_filter_package
+[3.007s] 
+[3.008s] Installed /home/rm/filter/build/object_filter_package
+[3.008s] running symlink_data
+[3.008s] creating /home/rm/filter/install/object_filter_package/share/ament_index
+[3.008s] creating /home/rm/filter/install/object_filter_package/share/ament_index/resource_index
+[3.008s] creating /home/rm/filter/install/object_filter_package/share/ament_index/resource_index/packages
+[3.009s] symbolically linking /home/rm/filter/build/object_filter_package/resource/object_filter_package -> /home/rm/filter/install/object_filter_package/share/ament_index/resource_index/packages
+[3.009s] symbolically linking /home/rm/filter/build/object_filter_package/package.xml -> /home/rm/filter/install/object_filter_package/share/object_filter_package
+[3.009s] creating /home/rm/filter/install/object_filter_package/share/object_filter_package/msg
+[3.009s] symbolically linking /home/rm/filter/build/object_filter_package/msg/YoloObject.msg -> /home/rm/filter/install/object_filter_package/share/object_filter_package/msg
+[3.138s] Invoked command in '/home/rm/filter/build/object_filter_package' returned '0': PYTHONPATH=/home/rm/filter/build/object_filter_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rm/filter/build/object_filter_package/build --no-deps symlink_data

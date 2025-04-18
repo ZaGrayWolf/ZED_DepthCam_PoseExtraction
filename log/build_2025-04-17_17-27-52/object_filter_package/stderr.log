@@ -1,0 +1,5 @@
+  File "/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object_filter_package/onnxrun.py", line 13
+    class_names = [ /* your 25 names here */ ]
+                    ^
+SyntaxError: invalid syntax
+

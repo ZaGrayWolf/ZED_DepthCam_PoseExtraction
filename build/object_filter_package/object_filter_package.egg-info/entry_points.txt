@@ -1,0 +1,5 @@
+[console_scripts]
+object_filter_node = object_filter_package.object_filter_node:main
+onnxrun = object_filter_package.onnxrun:main
+test = object_filter_package.test:main
+

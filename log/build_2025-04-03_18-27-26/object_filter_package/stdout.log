@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating object_filter_package.egg-info
+writing object_filter_package.egg-info/PKG-INFO
+writing dependency_links to object_filter_package.egg-info/dependency_links.txt
+writing entry points to object_filter_package.egg-info/entry_points.txt
+writing requirements to object_filter_package.egg-info/requires.txt
+writing top-level names to object_filter_package.egg-info/top_level.txt
+writing manifest file 'object_filter_package.egg-info/SOURCES.txt'
+reading manifest file 'object_filter_package.egg-info/SOURCES.txt'
+writing manifest file 'object_filter_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object-filter-package.egg-link (link to .)
+Installing object_filter_node script to /home/rm/filter/install/object_filter_package/lib/object_filter_package
+
+Installed /home/rm/filter/build/object_filter_package
+running symlink_data
+creating /home/rm/filter/install/object_filter_package/share/ament_index
+creating /home/rm/filter/install/object_filter_package/share/ament_index/resource_index
+creating /home/rm/filter/install/object_filter_package/share/ament_index/resource_index/packages
+symbolically linking /home/rm/filter/build/object_filter_package/resource/object_filter_package -> /home/rm/filter/install/object_filter_package/share/ament_index/resource_index/packages
+symbolically linking /home/rm/filter/build/object_filter_package/package.xml -> /home/rm/filter/install/object_filter_package/share/object_filter_package
+creating /home/rm/filter/install/object_filter_package/share/object_filter_package/msg
+symbolically linking /home/rm/filter/build/object_filter_package/msg/YoloObject.msg -> /home/rm/filter/install/object_filter_package/share/object_filter_package/msg

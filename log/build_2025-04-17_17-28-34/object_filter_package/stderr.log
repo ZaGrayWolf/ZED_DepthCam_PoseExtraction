@@ -1,0 +1,4 @@
+  File "/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages/object_filter_package/object_filter_node.py", line 149
+    import rclpy
+SyntaxError: expected 'except' or 'finally' block
+
